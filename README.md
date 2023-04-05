@@ -7,7 +7,7 @@ This is a simple calendar application that allows a user to save events for each
 ## Table of Contents
 
 * [Installation](#installation)
-  for
+Nothing to Install
 * [Usage](#usage)
 For my Portfolio
 * [License](#license)
