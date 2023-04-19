@@ -14,7 +14,6 @@ For my Portfolio
 
 * [Contributing](#contributing)
   Tenshi541
-* [Tests](#tests)
 
 * [Questions](#questions)
 Any questions please contact me at my email or github
